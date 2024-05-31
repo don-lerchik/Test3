@@ -1,0 +1,13 @@
+.idea
+.vscode
+docker-compose.yml
+.env*
+!.env.sample
+dist
+data
+ormconfig.json
+node_modules
+debug
+proto
+.npmrc
+curls
